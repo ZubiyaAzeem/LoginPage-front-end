@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('background.jpg') no-repeat;
+    background: url(https://images.unsplash.com/photo-1683611667049-64888bfc27af?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
     background-size: cover;
     background-position: center;
 
@@ -289,7 +289,7 @@ header {
 @media screen and (max-width: 768px) {
     body {
         background-size: auto;
-        background: url('background2.png') no-repeat;
+        /*background: url('background2.png') no-repeat;*/
     }
 
     header {
