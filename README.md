@@ -1,4 +1,4 @@
-# 🌐Login and Signup Forms 🚀
+# 🌐Login and Registrations Form 🚀
 
 Welcome to the Awesome Login and Signup Forms repository! This project provides a stylish and secure solution for user authentication.
 
